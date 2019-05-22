@@ -11,7 +11,8 @@ WITHWARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.
 */
 
 #include <math.h>
-
+#define __STDC_LIMIT_MACROS
+#include <stdint.h>
 #include "ffsengine.h"
 #include "types.h"
 #include "treemodel.h"
